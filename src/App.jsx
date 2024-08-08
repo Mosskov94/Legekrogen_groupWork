@@ -30,6 +30,7 @@ function App() {
       </div>
       <div>
         <h1>Contact</h1>
+        hello
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
